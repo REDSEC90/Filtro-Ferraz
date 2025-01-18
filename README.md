@@ -2,7 +2,7 @@ este projeto em python tem como objetivo eliminar e apagar
  linhas de listas que conter emojis especificos.
 script simples para usar é so usar as instrucoes
 
-apt update && apt upgrade && apt install git && git clone https://github.com/REDSEC90/Filtro-Ferraz.git && cd Filtro-Ferraz && python Filtroferraz3.py
+apt update && apt upgrade && apt install git && git clone https://github.com/REDSEC90/Filtro-Ferraz.git && cd Filtro-Ferraz && python Filtroferraz4.py
 
 apos seguir as intrucoes voces iram estar de frente com a seguinte pergunta
 
