@@ -10,11 +10,6 @@ qualquer bug ou ideia para adicionar algo só chamar no instagram ou ir no githu
 
 ===================================
 
-Olá, seja bem-vindo!
-Digite 1 para filtrar uma lista.
-
-##digite 1 e logo apos podera enviar sua lista para ser filtrada
-
 
 Contribuições
 
