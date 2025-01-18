@@ -4,9 +4,9 @@ script simples para usar é so usar as instrucoes
 
 apt update && apt upgrade && apt install git && git clone https://github.com/REDSEC90/Filtro-Ferraz.git && cd Filtro-Ferraz && python Filtroferraz4.py
 
-apos seguir as intrucoes voces iram estar de frente com a seguinte pergunta
-
-Trader Ferraz
+Trader Ferraz 
+instagram= @red.sec0101
+qualquer bug ou ideia para adicionar algo só chamar no instagram ou ir no github= REDSEC90
 
 ===================================
 
